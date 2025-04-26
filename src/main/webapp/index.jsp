@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to My Application</title>
+    <title>Truth : Aiswary Taken Vaisahali on 16th May 2022</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Application!</h1>
+    <h1> Aiswary Taken Vaisahali on 16th May 2022!</h1>
     <p>This is the landing page of the application.</p>
 </body>
 </html>
