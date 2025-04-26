@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to My Web Application</title>
+    <title>Welcome to My Application</title>
     <style>
         body {
             font-family: Arial, sans-serif;
